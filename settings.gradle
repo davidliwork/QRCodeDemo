@@ -1,0 +1,2 @@
+include ':qRLibrary'
+include ':qRCodeDemo'

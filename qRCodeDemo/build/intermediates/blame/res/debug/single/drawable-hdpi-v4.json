@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\capture.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\pic_dir.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_mask.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\scan_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_line.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\scan_line.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_menu_normal.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_choose.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\dir_choose.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pickphotos_to_camera_normal.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\pickphotos_to_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "C:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\exploded-aar\\QRCodeDemo\\qRLibrary\\unspecified\\res\\drawable-hdpi-v4\\mm_title_back_normal.9.png"
+    }
+]

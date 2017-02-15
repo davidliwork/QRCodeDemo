@@ -1,0 +1,7 @@
+#Wed Feb 15 10:40:20 GMT+08:00 2017
+base.0=C\:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_200d2b5359171582ac175de1a60aa00f525de784
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2da16197dd4995ade8f9e9a611d51484bdc7b1c\\classes.dex
+base.1=C\:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2da16197dd4995ade8f9e9a611d51484bdc7b1c
+file.0=C\:\\Users\\yibas\\AndroidStudioProjects\\QRCodeDemo\\qRCodeDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_200d2b5359171582ac175de1a60aa00f525de784\\classes.dex

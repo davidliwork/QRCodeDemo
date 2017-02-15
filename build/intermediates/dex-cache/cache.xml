@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_1fff0b254531b1ae770abd4fb5bcde6bdb163e2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_7955ae570a0c2bac4c30c034bfdca4e96e336693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\QRCodeDemo\qRLibrary\unspecified\jars\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6986dec9fc940599f6557c73866d04fe329e2e92">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.3_24dcfa5073412246b3a088a6e272b66d4718d3b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.actionbarsherlock-actionbarsherlock-4.4.0_bbb917fc2bc1a0f9dfb6d32db80426ce30f91521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f1618620810f358019eba8c097ed379e93d2951">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2da16197dd4995ade8f9e9a611d51484bdc7b1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a101e7e4c48adb3e02d85164347d22ea1dcbcc2f">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_200d2b5359171582ac175de1a60aa00f525de784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\QRCodeDemo\qRLibrary\unspecified\jars\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\8\zxing_65ffe25495cc45730c83340d08cd15af3c1d92bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_8d87429bc306ee07e1aafecc67bdf5e6758d6d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_9c045a2c9421d1dc0181b76b3d57806eab02b07d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_8771194fa00b7f71fe09ce2a1868358db2953fb0\classes.dex" />
+    </item>
+
+</items>

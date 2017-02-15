@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRLibrary\src\main\jniLibs"><file name="armeabi/libzbar.so" path="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRLibrary\src\main\jniLibs\armeabi\libzbar.so"/></source></dataSet><dataSet config="release"><source path="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRLibrary\src\release\jniLibs"/></dataSet></merger>

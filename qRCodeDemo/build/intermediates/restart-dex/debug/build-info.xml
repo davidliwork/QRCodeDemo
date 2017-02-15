@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="49486014315575"
+    token="-9055933143833637680"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="331" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="364" />
+    <task
+        name="verifier"
+        duration="69" />
+
+    <artifact
+        location="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\outputs\apk\qRCodeDemo-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="49486014315575"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\outputs\apk\qRCodeDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

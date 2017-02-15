@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [QRCodeDemo:qRLibrary:unspecified] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\QRCodeDemo\qRLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:10:19-59
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:16:19-67
+application
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:17:5-35:19
+MERGED from [QRCodeDemo:qRLibrary:unspecified] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\QRCodeDemo\qRLibrary\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.qrcodedemo.MainActivity
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:28:27-74
+activity#com.zbar.lib.CaptureActivity
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:31:9-33:58
+	android:theme
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:32:13-56
+activity#com.zbar.lib.SelectPictureActivity
+ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from C:\Users\yibas\AndroidStudioProjects\QRCodeDemo\qRCodeDemo\src\main\AndroidManifest.xml:34:19-68

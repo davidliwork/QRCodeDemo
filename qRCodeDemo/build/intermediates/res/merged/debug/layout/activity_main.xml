@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffe1e0de" >
+	<EditText
+		android:id="@+id/et"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" />
+	<LinearLayout 
+	    android:id="@+id/ll_buttons"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+	    <Button
+	        android:onClick="createQRCode"
+	        android:layout_width="0dip"
+	        android:layout_weight="1"
+	        android:layout_height="wrap_content"
+	        android:text="生成二维码" />
+	    <Button
+	        android:onClick="saveQRCode"
+	        android:layout_width="0dip"
+	        android:layout_weight="1"
+	        android:layout_height="wrap_content"
+	        android:text="保存二维码到图库" />
+	</LinearLayout>
+	<ImageView
+        android:id="@+id/show_qrcode"
+        android:layout_width="fill_parent"
+        android:layout_height="150dip"
+        android:layout_alignParentLeft="true"
+        />
+    <Button
+        android:id="@+id/scan_QRCode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="扫描二维码" />
+
+	<Button
+		android:id="@+id/get_QRCode"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:text="识别图片中的二维码" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:lines="2"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+</LinearLayout>
